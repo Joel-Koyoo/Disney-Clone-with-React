@@ -1,9 +1,7 @@
-import React from 'react';
-import { Counter } from './features/counter/Counter';
+import React from 'react'; 
 import './App.css';
 import Header from './features/components/header';
 import Home from './features/components/home';
-
 
 
 function App() {
@@ -11,7 +9,7 @@ function App() {
     <div className='App '>
       <Header />
       <Home />
-
+ 
     </div>
   );
 }
