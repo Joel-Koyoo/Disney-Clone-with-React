@@ -55,8 +55,7 @@ const Wrap = styled.div`
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    box-shadow: rgb(0 0 0 / 68%%) 0px 26px 30px -10px,
-      rgb(0 0 0 /73%) 0px 16p 10px -18px;
+    box-shadow: rgb(0 0 0 / 69%) 0px 40px 58px -16px, rgb(0 0 0 / 73%) 0px 30px 22px -10px;
     transition-duration:300ms;
 
      &:hover{
